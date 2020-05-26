@@ -20,6 +20,12 @@ a:focus {
   text-decoration: none;
 }
 
+pagination {
+    margin-left: 0;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
 
 p {
   padding: 0;

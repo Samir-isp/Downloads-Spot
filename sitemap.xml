@@ -13,7 +13,11 @@
   <priority>1.00</priority>
 </url>
 
-<url>  <loc>https://downloadsspot.com/Android.html</loc>  <lastmod>2020-06-13T19:49:23+00:00</lastmod>  <priority>0.80</priority></url>
+<url>  
+<loc>https://downloadsspot.com/Android.html</loc> 
+ <lastmod>2020-06-13T19:49:23+00:00</lastmod> 
+ <priority>0.80</priority>
+ </url>
 <url>  <loc>https://downloadsspot.com/Application.html</loc>  <lastmod>2020-06-13T19:49:23+00:00</lastmod>  <priority>0.80</priority></url>
 <url>  <loc>https://downloadsspot.com/Firmware.html</loc>  <lastmod>2020-06-13T19:49:23+00:00</lastmod>  <priority>0.80</priority></url>
 <url>  <loc>https://downloadsspot.com/Games.html</loc>  <lastmod>2020-06-13T19:49:23+00:00</lastmod>  <priority>0.80</priority></url>
@@ -60,7 +64,7 @@
 <url>  <loc>https://downloadsspot.com/Microsoft_Office_2016-2019_Professional_Plus.html</loc>  <lastmod>2020-06-13T19:49:23+00:00</lastmod>  <priority>0.80</priority></url>
 <url>  <loc>https://downloadsspot.com/Microsoft_Visual_C.html</loc>  <lastmod>2020-06-13T19:49:23+00:00</lastmod>  <priority>0.80</priority></url>
 <url>  <loc>https://downloadsspot.com/NET_Framework.html</loc>  <lastmod>2020-06-13T19:49:23+00:00</lastmod>  <priority>0.80</priority></url>
-<url>  <loc>https://downloadsspot.com/O&O_Defrag_Professional.html</loc>  <lastmod>2020-06-13T19:49:23+00:00</lastmod>  <priority>0.80</priority></url>
+<url>  <loc>https://downloadsspot.com/O&amp;O_Defrag_Professional.html</loc>  <lastmod>2020-06-13T19:49:23+00:00</lastmod>  <priority>0.80</priority></url>
 <url>  <loc>https://downloadsspot.com/PDF-XChange_Editor_Plus.html</loc>  <lastmod>2020-06-13T19:49:23+00:00</lastmod>  <priority>0.80</priority></url>
 <url>  <loc>https://downloadsspot.com/PDF-XChange_PRO.html</loc>  <lastmod>2020-06-13T19:49:23+00:00</lastmod>  <priority>0.80</priority></url>
 <url>  <loc>https://downloadsspot.com/PDF-XChange_Standard.html</loc>  <lastmod>2020-06-13T19:49:23+00:00</lastmod>  <priority>0.80</priority></url>
@@ -1515,5 +1519,7 @@
 <url>  <loc>https://downloadsspot.com/Pro_Evolution_Soccer_2019.html</loc>  <lastmod>2020-06-13T19:49:23+00:00</lastmod>  <priority>0.80</priority></url>
 <url>  <loc>https://downloadsspot.com/fifa2019.html</loc>  <lastmod>2020-06-13T19:49:23+00:00</lastmod>  <priority>0.80</priority></url>
 
+
+</urlset>
 
 </urlset>

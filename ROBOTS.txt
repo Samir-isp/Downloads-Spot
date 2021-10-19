@@ -1,0 +1,3 @@
+User-agent: https://downloadsspot.com/Privacy%20Policy.html
+User-agent: https://downloadsspot.com/Terms%20of%20service.html
+Disallow: /

@@ -79,13 +79,13 @@ ul.products > li.product.list-view.list-view-small .button:active::after,
 .full-color-background .header-v3,
 .full-color-background .top-bar,
 .pace .pace-progress {
-  background-color: #4dff71; }
+  background-color: #fed700; }
 
 .hero-action-btn:hover {
-  background-color: #4dff71 !important; }
+  background-color: #eac600 !important; }
 
 .hero-action-btn {
-  background-color: #4dff71 !important; }
+  background-color: #fed700 !important; }
 
 .departments-menu .departments-menu-dropdown,
 .departments-menu .menu-item-has-children > .dropdown-menu,
